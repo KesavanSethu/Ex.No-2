@@ -2,7 +2,7 @@
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## Name: KESAVAN S
 ## Register Number: 212224230121
-## Date: 17-05-2026
+## Date: 20-05-2026
 ## AIM:
  To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## ALGORITHM
